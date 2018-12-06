@@ -1,0 +1,24 @@
+CategoryName
+
+
+Repeating:
+	[Bold:]Book title Volume Count " " [Not bold:]Accession Number
+	(Period) Commentator's Name Etal Ownership verb 《Original Book Title》(Period) Commentator's Name Etal Ownership verb
+	Date of Publication (Western Year) Name of Publisher Edition
+	Note
+
+@COMMENT { BibTex package created by Trove, National Library of Australia https://trove.nla.gov.au }
+@Book{ trove.nla.gov.au/work/12597753,
+title = { Yi jing },
+author = { Cheng, Yi, 1033-1107 and 程頤, 1033-1107 },
+publisher = { [Shanghai] : Jiang nan shu ju },
+year = { 1883 },
+type = { Book },
+subjects = { Yi jing; 易經 },
+language = { Chinese },
+note = { On double leaves, oriental style, in case },
+catalogue-url = { https://trove.nla.gov.au/work/12597753 }
+}
+
+
+	Book title convert from pinyin
